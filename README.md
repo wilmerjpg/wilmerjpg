@@ -41,3 +41,7 @@
   - MySQL
   - PostgreSQL
   - MongoDB
+  
+### 📊 My Stats:
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilmerjpg)](https://git.io/streak-stats)
