@@ -3,13 +3,6 @@
     <h3 align="center">A Full Stack Developer (React.js + Node.js) with seven years of experience developing applications.</h3>
 </div>
 
-
-<div id="badges" align="center">
-    <a href="https://twitter.com/wilmerjpg" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/wilmerjpg?style=social" alt="Twitter Badge" />
-    </a>
-</div>
-
 ---
 
 ### 👨‍💻 About Me:
