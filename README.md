@@ -1,14 +1,14 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Wilmer Prieto</h1>
-    <h3 align="center">A Full Stack Developer (React.js + Node.js) with seven years of experience developing applications.</h3>
+    <h3 align="center">A Full Stack Developer (React.js + Node.js) with nine years of experience developing applications.</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me:
 
-- 🌱 I’m currently learning: **GraphQL**
-- 💬 Ask me about: **React.js, Next.js, TypeScript, JavaScript**
+<!-- - 🌱 I’m currently learning: **GraphQL** -->
+- 💬 Ask me about: **React.js, Next.js, TypeScript, JavaScript, AWS**
 - 📫 How to reach me: **wilmerprieto3000@gmail.com**
 - 😄 Pronouns: he/him
 
